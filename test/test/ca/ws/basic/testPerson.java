@@ -1,10 +1,10 @@
-package test.ca.ws.eclipse;
+package test.ca.ws.basic;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import ca.ws.eclipse.Person;
+import ca.ws.basic.Person;
 
 //personµƒ≤‚ ‘¿‡
 public class testPerson {
