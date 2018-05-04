@@ -1,4 +1,4 @@
-package ca.ws.basic;
+package ca.ws.basics;
 
 public class demo1 {
 

@@ -1,4 +1,4 @@
-package ca.ws.basic;
+package ca.ws.basics;
 
 import java.util.List;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package ca.ws.basic;
+package ca.ws.basics;
 
 import static java.lang.System.out;
 import static java.util.Arrays.*;

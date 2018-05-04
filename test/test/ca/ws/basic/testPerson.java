@@ -4,7 +4,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import ca.ws.basic.Person;
+import ca.ws.basics.Person;
 
 //personµÄ²âÊÔÀà
 public class testPerson {
