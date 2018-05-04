@@ -6,7 +6,7 @@ import java.util.List;
 public class Person {
 	
 	public String name="aaa";
-	private int password = 123;
+	private int password = 456;
 	private static int age = 23;
 
 	public Person(){
