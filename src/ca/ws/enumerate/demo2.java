@@ -1,4 +1,4 @@
-package ca.ws.enumeration;
+package ca.ws.enumerate;
 
 import org.junit.Test;
 
