@@ -9,13 +9,7 @@ public class Concurrent {
 	
 	@Test
     public void lock() {
-        Lock lock = new ReentrantLock();
-        lock.lock();
-        try {
-            System.out.println("hello world");
-        } finally {
-            lock.unlock();
-        }
-    }
-
+		
+	}
+	
 }
